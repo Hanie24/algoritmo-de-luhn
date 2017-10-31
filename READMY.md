@@ -21,4 +21,4 @@ El usuario no debe poder ingresar un campo vacío
 
 ## Diagrama de flujo.
 A continuación se incluye diagrama de flujo
-![diagrama de flujo] (algoritmo-de-luhn.png);
+![diagrama de flujo] (https://www.lucidchart.com/publicSegments/view/0b840469-33e8-41cc-b8a9-25fc3dfb4f4b/image.jpeg);
